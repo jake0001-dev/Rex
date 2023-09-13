@@ -13,4 +13,4 @@ async function user_auth(user) {
 }
 
 
-console.log('Server started on port 6666')
+console.log('init')
