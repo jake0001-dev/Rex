@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sql-client": "^3.0.0",
+    "ws": "^8.13.0"
+  }
+}
