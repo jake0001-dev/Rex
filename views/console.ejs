@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Console</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+    <header class="nav-bar">
+        <nav>
+            <ul>
+                <li><a href="#">REX</a></li>
+                <li><a href="#">RCON</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="console">
+        <% logs.forEach(log => { %>
+        <div class="log"><%= log %></div>
+        <% }) %>
+    </div>
+</body>
+
+</html>

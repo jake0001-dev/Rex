@@ -1,0 +1,51 @@
+[INFO] Server startup complete.
+[INFO] Running on Unity 5.x.x
+[INFO] Server has been up for 00:01:00
+[CHAT] Player1: anyone at airfield?
+[INFO] Player2 joined the game (IP: xxx.xxx.xxx.xxx)
+[ADMIN] Console: give Player2 "wood" 1000
+[CHAT] Server: Player2 received 1000 wood.
+[CHAT] Player2: Thanks, admin!
+[WARN] High ping detected for Player3: 230ms
+[ADMIN] Console: kick Player3 "High ping"
+[CHAT] Server: Player3 has been kicked for high ping.
+[INFO] Player3 disconnected (Reason: Kicked)
+[INFO] Airdrop incoming
+[CHAT] Player4: airdrop!
+[INFO] Player4 killed by Player1
+[CHAT] Player1: GG
+[ADMIN] Console: teleport Player2 Player4
+[CHAT] Server: Player2 has been teleported to Player4.
+[INFO] Server saved.
+[CHAT] Player5: Need clan, any invites?
+[CHAT] Player6: Base raided at J3
+[ADMIN] Console: weather fog
+[CHAT] Server: Weather changed to fog.
+[INFO] Player7 joined the game (IP: xxx.xxx.xxx.xxx)
+[INFO] Helicopter incoming
+[CHAT] Player8: Helicopter!!! Take cover!!
+[ADMIN] Console: spawn bear
+[CHAT] Server: A bear has been spawned.
+[INFO] Player9 was killed by bear
+[CHAT] Player9: Wow really? A bear?
+[INFO] Server backup initiated.
+[INFO] Player10 disconnected (Reason: Quit)
+[INFO] Backup complete.
+[INFO] Player6 was banned by Admin for "cheating"
+[CHAT] Server: Player6 has been banned for cheating.
+[CHAT] Player7: Good riddance
+[ADMIN] Console: mute Player1
+[CHAT] Server: Player1 has been muted.
+[CHAT] Player2: Where’s everyone?
+[WARN] CPU Usage at 90%
+[INFO] Server is running at tick rate 60
+[INFO] Player11 killed by Player5
+[CHAT] Player5: Sorry, need the loot.
+[ADMIN] Console: unmute Player1
+[CHAT] Server: Player1 has been unmuted.
+[CHAT] Player1: Finally, thanks.
+[ADMIN] Console: destroy entity 1234
+[CHAT] Server: Entity 1234 has been destroyed.
+[INFO] Player12 disconnected (Reason: Timed out)
+[INFO] Server saved.
+[INFO] Server has been up for 01:30:00
